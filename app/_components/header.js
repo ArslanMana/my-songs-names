@@ -149,10 +149,3 @@ export default function Navbar({ user }) {
     </>
   );
 }
-
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ArslanMana/my-songs-names.git
-git push -u origin main
